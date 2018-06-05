@@ -9,7 +9,7 @@ jobs:
       # specify the version you desire here
       - image: circleci/android:api-23-alpha
 
-    working_directory: ~/src
+    working_directory: ~/app/src
 
     environment:
       # Customize the JVM maximum heap limit
