@@ -1,3 +1,3 @@
 # HelloWorld
 
-<img src="https://camo.githubusercontent.com/2389891847b3b17fc1bb254bc0d7b87cebd7fd05/68747470733a2f2f7472617669732d63692e6f72672f6761627269656c62726f6c6c6f2f48656c6c6f576f726c642e7376673f6272616e63683d6d6173746572" alt="build:">
+[![CircleCI](https://circleci.com/gh/gabrielbrollo/HelloWorld/tree/master.svg?style=svg)](https://circleci.com/gh/gabrielbrollo/HelloWorld/tree/master)
